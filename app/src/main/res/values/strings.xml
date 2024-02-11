@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Smart Contact</string>
+    <string name="create_new_contact">Create new contact</string>
+    <string name="create_contact">Create Contact</string>
+    <string name="enter_contact_details">Enter Contact Details</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_number">Enter number</string>
+    <string name="enter_website">Enter Website</string>
+    <string name="enter_location">Enter location</string>
+</resources>
